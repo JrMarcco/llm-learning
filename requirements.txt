@@ -1,0 +1,15 @@
+openai
+langchain
+langchain-openai
+langchain-experimental
+chromadb
+faiss-cpu
+gradio
+unstructured
+google-search-results
+tiktoken
+matplotlib
+plotly
+numpy
+scikit-learn
+pandas
