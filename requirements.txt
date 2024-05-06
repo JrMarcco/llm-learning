@@ -13,3 +13,6 @@ plotly
 numpy
 scikit-learn
 pandas
+requests
+tenacity
+termcolor
