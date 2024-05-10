@@ -5,6 +5,7 @@
 
 **/*.rs.bk
 
+**/logs/
 **/target/
 **/tmp/
 **/env/
