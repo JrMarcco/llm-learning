@@ -16,3 +16,8 @@ pandas
 requests
 tenacity
 termcolor
+argparse
+pdfplumber
+loguru
+pyyaml
+pillow
